@@ -1,13 +1,21 @@
-# eslint-boiler-plate
+# eslint9 BoilerPlate
 
 ## Vite(SWC) + eslint9
 
-#### with tailwindcss
+#### vite-react-swc
+```bash
+git clone --depth=1 -b eslint9/vite-react-swc https://github.com/lnuvy/eslint-boiler-plate.git my-project-name
+```
+
+#### vite-react-swc with tailwindcss
 ```bash
 git clone --depth=1 -b eslint9/vite-react-swc-tailwind https://github.com/lnuvy/eslint-boiler-plate.git my-project-name
 ```
 
-#### without tailwindcss
-```bash
-git clone --depth=1 -b eslint9/vite-react-swc https://github.com/lnuvy/eslint-boiler-plate.git my-project-name
-```
+
+## Vite + eslint9
+
+
+
+## Vite + eslint8
+
